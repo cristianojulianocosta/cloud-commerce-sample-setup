@@ -1,8 +1,3 @@
-# folders/files to always ignore
-.metadata
-.DS_Store
-**/gensrc
-
 #IDE files
 .gradle
 .idea
@@ -16,9 +11,6 @@ org.springframework.ide.eclipse.beans.core.prefs
 org.springframework.ide.eclipse.core.prefs
 .springBeans
 eclipsebin
-
-# NPM packages
-**/node_modules
 
 # Compiled class file
 *.class
