@@ -23,6 +23,18 @@
         "webroot": "dist/b2bspastore/browser/"
       },
       "enabledRepositories": ["spartacus-6"]
+    },
+    {
+      "name": "mystore-ssg",
+      "path": "mystore-ssg",
+      "ssr": {
+        "enabled": true,
+        "path": "dist/mystore-ssg/server/server.mjs"
+      },
+      "csr": {
+        "webroot": "dist/mystore-ssg/browser/"
+      },
+      "enabledRepositories": ["spartacus-6"]
     }
   ],
   "nodeVersion": "20"
