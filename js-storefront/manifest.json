@@ -25,14 +25,10 @@
       "enabledRepositories": ["spartacus-6"]
     },
     {
-      "name": "mystore-ssg",
-      "path": "mystore-ssg",
-      "ssr": {
-        "enabled": true,
-        "path": "dist/mystore-ssg/server/server.mjs"
-      },
+      "name": "mystore",
+      "path": "mystore",
       "csr": {
-        "webroot": "dist/mystore-ssg/browser/"
+        "webroot": "dist/mystore/"
       },
       "enabledRepositories": ["spartacus-6"]
     }
