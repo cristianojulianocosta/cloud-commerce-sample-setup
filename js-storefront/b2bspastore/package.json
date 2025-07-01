@@ -58,7 +58,6 @@
     "@spartacus/styles": "2211.39.0",
     "@spartacus/tracking": "2211.39.0",
     "@spartacus/user": "2211.39.0",
-    "@tua/tua-spa": "2302.9.0",
     "@types/eslint": "^8.44.9",
     "@types/estree": "^1.0.5",
     "angular-oauth2-oidc": "^19.0.0",
