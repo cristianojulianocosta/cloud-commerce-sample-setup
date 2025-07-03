@@ -4,7 +4,7 @@
       "name": "mystorecloud",
       "path": "mystorecloud",
       "csr": {
-        "webroot": "src/index.html"
+        "webroot": "dist/mystorecloud/browser/"
       },
       "enabledRepositories": ["spartacus-dev"]
     }
