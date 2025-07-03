@@ -1,26 +1,10 @@
 {
   "applications": [
     {
-      "name": "spartacusstore",
-      "path": "spartacusstore",
-      "ssr": {
-        "enabled": true,
-        "path": "dist/spartacusstore/server/server.mjs"
-      },
+      "name": "mystorecloud",
+      "path": "mystorecloud",
       "csr": {
-        "webroot": "dist/spartacusstore/browser/"
-      },
-      "enabledRepositories": ["spartacus-dev"]
-    },
-    {
-      "name": "b2bspastore",
-      "path": "b2bspastore",
-      "ssr": {
-        "enabled": true,
-        "path": "dist/b2bspastore/server/server.mjs"
-      },
-      "csr": {
-        "webroot": "dist/b2bspastore/browser/"
+        "webroot": "src"
       },
       "enabledRepositories": ["spartacus-dev"]
     }
