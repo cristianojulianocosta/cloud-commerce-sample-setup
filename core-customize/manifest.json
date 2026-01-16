@@ -4,6 +4,10 @@
     "extensions": [
         "cloudmediaconversion",
         "mediaconversionbackoffice"
+        "b2bpunchout"
+        "b2bpunchoutaddon"
+        "b2bpunchoutbackoffice"
+        "b2bpunchoutocc"
     ],
     "storefrontAddons": [
         {
